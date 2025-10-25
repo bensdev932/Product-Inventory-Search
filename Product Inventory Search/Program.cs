@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace MovieRentalSystem
+namespace ProductInventorySearch
 {
     public class Program
     {
